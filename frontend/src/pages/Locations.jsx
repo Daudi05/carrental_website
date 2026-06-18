@@ -1,0 +1,8 @@
+export default function Locations() {
+  return (
+    <div className="container">
+      <h1>Our Locations</h1>
+      <p>Locations page coming soon.</p>
+    </div>
+  );
+}
